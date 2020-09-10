@@ -3,7 +3,7 @@
 :wave:hi there
 I am someone who is interested in programming world, I start to learn programming since May 2020
 <p align="left">
-  and the first programming leanguage i've learn is <a href="https://php.com">PHP</a>. I thought programming was tough but there it was what got me interested. By learning programming, it indirectly taught me and trained me to be more careful in doing something, thats teach me how to be more logic.
+  and the first programming leanguage i've learn is <a href="https://php.net">PHP</a>. I thought programming was tough but there it was what got me interested. By learning programming, it indirectly taught me and trained me to be more careful in doing something, thats teach me how to be more logic.
 </p>
 
 <h4 align="center">Language,Framework,Tools</h4>
